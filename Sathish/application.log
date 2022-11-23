@@ -1,0 +1,3 @@
+2022-11-15 18:15:31,977  INFO [main] LoginPageTest:39 - *************** Login into the application****************
+2022-11-15 18:15:31,985 FATAL [main] LoginPageTest:41 - there is no fatal error
+2022-11-15 18:15:31,985 DEBUG [main] LoginPageTest:42 - this is debug mode
